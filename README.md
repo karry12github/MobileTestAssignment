@@ -15,6 +15,7 @@ Before setting up the project, ensure you have the following installed on your s
   3. Install dependencies:
   4. Start Appium Server:
   5. Set up your Android device or emulator
+     
 **Components**   
 1. Singleton Class - To create and maintain the Andorid driver object instance
 2. Page Object Model - To maintain the Mobile elements.
